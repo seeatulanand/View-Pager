@@ -1,4 +1,4 @@
-package com.onnet.viewpager;
+package com.atul.viewpager;
 
 import org.junit.Test;
 

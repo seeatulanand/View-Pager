@@ -1,4 +1,4 @@
-package com.onnet.viewpager;
+package com.atul.viewpager;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.onnet.viewpager;
+package com.atul.viewpager;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
